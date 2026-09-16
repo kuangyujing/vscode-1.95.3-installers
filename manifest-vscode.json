@@ -1,0 +1,268 @@
+[
+  {
+    "target": "win32-x64-user",
+    "file": "client/windows/VSCodeUserSetup-x64-1.95.3.exe",
+    "size": 103400968,
+    "sha256": "7ce997d7a80ff838c2b7312be6e26917a8b66a67c633ee0b3317b1ae70010077",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCodeUserSetup-x64-1.95.3.exe"
+  },
+  {
+    "target": "win32-x64",
+    "file": "client/windows/VSCodeSetup-x64-1.95.3.exe",
+    "size": 103400616,
+    "sha256": "2e0bca6ceb39516ee4b8caadd468ad97d86aac49229162a27ad7cb9c69e63b2e",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCodeSetup-x64-1.95.3.exe"
+  },
+  {
+    "target": "win32-x64-archive",
+    "file": "client/windows/VSCode-win32-x64-1.95.3.zip",
+    "size": 144702754,
+    "sha256": "6d6fcd71fee97a3e110770032d7c8494145f15a92598813f031ceb09449c3f1d",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCode-win32-x64-1.95.3.zip"
+  },
+  {
+    "target": "win32-arm64-user",
+    "file": "client/windows/VSCodeUserSetup-arm64-1.95.3.exe",
+    "size": 100017424,
+    "sha256": "b44c41865a44f0e74096051a22b4c0bc5c78435caccfd97518d27f7050427cf8",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCodeUserSetup-arm64-1.95.3.exe"
+  },
+  {
+    "target": "win32-arm64",
+    "file": "client/windows/VSCodeSetup-arm64-1.95.3.exe",
+    "size": 100017112,
+    "sha256": "6bcf57dcc4581143921ddb018f19dd5cf1d30edc436fe9abef454eb74f8b9329",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCodeSetup-arm64-1.95.3.exe"
+  },
+  {
+    "target": "win32-arm64-archive",
+    "file": "client/windows/VSCode-win32-arm64-1.95.3.zip",
+    "size": 145002964,
+    "sha256": "02a99982963d1910bf24a26cc0edfd8ae502e7aa377a7f015eb297df2238ea86",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCode-win32-arm64-1.95.3.zip"
+  },
+  {
+    "target": "darwin-universal",
+    "file": "client/macos/VSCode-darwin-universal.zip",
+    "size": 229482716,
+    "sha256": "2b7788d17d2e0f3ac1fc684b126fa3739403fd2cdcd97e92ddcb738619f04aa9",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCode-darwin-universal.zip"
+  },
+  {
+    "target": "darwin",
+    "file": "client/macos/VSCode-darwin.zip",
+    "size": 142175523,
+    "sha256": "df51daeb657215d7139fdd6efc7599d58cfce0eafcd54f8d5f0cb382bb9a5404",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCode-darwin.zip"
+  },
+  {
+    "target": "darwin-arm64",
+    "file": "client/macos/VSCode-darwin-arm64.zip",
+    "size": 135066855,
+    "sha256": "fe01f564777afb75703e748ada00f1204f0495be54947d6ffb513e5a5eb16a08",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/VSCode-darwin-arm64.zip"
+  },
+  {
+    "target": "linux-deb-x64",
+    "file": "client/linux/code_1.95.3-1731513102_amd64.deb",
+    "size": 103735158,
+    "sha256": "176286acb16b5bad1f0431947c3fb17813c5a84ee85a3395c7620379a4a70086",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code_1.95.3-1731513102_amd64.deb"
+  },
+  {
+    "target": "linux-rpm-x64",
+    "file": "client/linux/code-1.95.3-1731513157.el8.x86_64.rpm",
+    "size": 142220013,
+    "sha256": "867204e0ad2126d1d19f842bcffc26225d1de40d5a86a716781b4f98bca2296f",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code-1.95.3-1731513157.el8.x86_64.rpm"
+  },
+  {
+    "target": "linux-x64",
+    "file": "client/linux/code-stable-x64-1731511985.tar.gz",
+    "size": 148378619,
+    "sha256": "881c6dce9f9b18bdeaa0020197501be3808c6e23c26baa0ba905b0bc84175b46",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code-stable-x64-1731511985.tar.gz"
+  },
+  {
+    "target": "linux-deb-arm64",
+    "file": "client/linux/code_1.95.3-1731512059_arm64.deb",
+    "size": 96299278,
+    "sha256": "61267026ad435efff9c67703652b18a25906b8878b8fb8d87ad3260632e07489",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code_1.95.3-1731512059_arm64.deb"
+  },
+  {
+    "target": "linux-rpm-arm64",
+    "file": "client/linux/code-1.95.3-1731512119.el8.aarch64.rpm",
+    "size": 141133515,
+    "sha256": "df2e271815add5aeaa883828c4421d47d52fe4612381b6b5bffea32f4fc572ec",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code-1.95.3-1731512119.el8.aarch64.rpm"
+  },
+  {
+    "target": "linux-arm64",
+    "file": "client/linux/code-stable-arm64-1731511983.tar.gz",
+    "size": 144398988,
+    "sha256": "2d284dc9e99770fca8e2a10b115d41d0a4fcf2fa4b031433e66bc3f4febee5a4",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/code-stable-arm64-1731511983.tar.gz"
+  },
+  {
+    "target": "server-linux-x64",
+    "file": "server/vscode-server-linux-x64.tar.gz",
+    "size": 59667440,
+    "sha256": "819d164dac5dd6273d4bb4f3a0f5f685c3b15d00e8a46187b701a05faec347c6",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-x64.tar.gz"
+  },
+  {
+    "target": "server-linux-arm64",
+    "file": "server/vscode-server-linux-arm64.tar.gz",
+    "size": 58911657,
+    "sha256": "a1f03f6eba814d12010d12df2a324360d323a12c2d270191cb7d0ecdcf7e2357",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-arm64.tar.gz"
+  },
+  {
+    "target": "server-linux-armhf",
+    "file": "server/vscode-server-linux-armhf.tar.gz",
+    "size": 54178929,
+    "sha256": "fc26af281d80434d670b05f3a88877121cfab2516c6fe501a8c9cdd1be849d92",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-armhf.tar.gz"
+  },
+  {
+    "target": "server-linux-legacy-x64",
+    "file": "server/vscode-server-linux-legacy-x64.tar.gz",
+    "size": 59622927,
+    "sha256": "5caad1d141e7b9ff94563762fe0f7ab67209939ca27f395c23876fffcfff3ea8",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-legacy-x64.tar.gz"
+  },
+  {
+    "target": "server-linux-legacy-arm64",
+    "file": "server/vscode-server-linux-legacy-arm64.tar.gz",
+    "size": 58964487,
+    "sha256": "bc94d24bda8af09d04bf91135c7975dd481f097552edccc6d6d3a7373affc886",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-legacy-arm64.tar.gz"
+  },
+  {
+    "target": "server-linux-legacy-armhf",
+    "file": "server/vscode-server-linux-legacy-armhf.tar.gz",
+    "size": 54972861,
+    "sha256": "47bbe7b03bf9d089decf494f093fa11605b4ed5a159717526a02109e3a418d7c",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-legacy-armhf.tar.gz"
+  },
+  {
+    "target": "server-linux-alpine",
+    "file": "server/vscode-server-linux-alpine.tar.gz",
+    "size": 60647703,
+    "sha256": "cea1c0c0835b831e9fa4670a7eb976ca05a295a512faa5a407d10ea6119ce053",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-alpine.tar.gz"
+  },
+  {
+    "target": "server-alpine-arm64",
+    "file": "server/vscode-server-alpine-arm64.tar.gz",
+    "size": 59746162,
+    "sha256": "cdc2a2ae91d779e2d30172f7ba5d3de8ea9deceb840ed7e9ee55016b5d390abc",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-alpine-arm64.tar.gz"
+  },
+  {
+    "target": "server-darwin",
+    "file": "server/vscode-server-darwin-x64.zip",
+    "size": 56165397,
+    "sha256": "eb431888af9f148ab50998757465e0532887f3921ca8e25dd47e29560ce59ad1",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-darwin-x64.zip"
+  },
+  {
+    "target": "server-darwin-arm64",
+    "file": "server/vscode-server-darwin-arm64.zip",
+    "size": 53763864,
+    "sha256": "951770c9fa99677415e9b62148b7a4afab79dddd4eff044b19eab3316cfa3961",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-darwin-arm64.zip"
+  },
+  {
+    "target": "server-win32-x64",
+    "file": "server/vscode-server-win32-x64.zip",
+    "size": 50693413,
+    "sha256": "54bfe0da80d4cf016bb85d8b60844c10301d256de93076271495bd646ee7d093",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-win32-x64.zip"
+  },
+  {
+    "target": "server-win32-arm64",
+    "file": "server/vscode-server-win32-arm64.zip",
+    "size": 46615859,
+    "sha256": "34b6f8fea81bf1844a7bd3d1966dcc8613a672fd173f978aaaa23c2ac906cea8",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-win32-arm64.zip"
+  },
+  {
+    "target": "server-linux-x64-web",
+    "file": "server/web/vscode-server-linux-x64-web.tar.gz",
+    "size": 65741311,
+    "sha256": "8c4cc68dd550fa8feb9f90a208a60f1eac2483996394fce7e7bc1c1b5ad4667a",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-x64-web.tar.gz"
+  },
+  {
+    "target": "server-linux-arm64-web",
+    "file": "server/web/vscode-server-linux-arm64-web.tar.gz",
+    "size": 64978159,
+    "sha256": "61f30480e0c1db8f72620a633eb9adbbf8dffcfb5d6a1d50fafbf3d67db79d53",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode-server-linux-arm64-web.tar.gz"
+  },
+  {
+    "target": "cli-alpine-x64",
+    "file": "cli/vscode_cli_alpine_x64_cli.tar.gz",
+    "size": 9046831,
+    "sha256": "9068c195f2daeadd294cc6a632814b82318ae62e052c2471fd21b80c4fa77c72",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_alpine_x64_cli.tar.gz"
+  },
+  {
+    "target": "cli-alpine-arm64",
+    "file": "cli/vscode_cli_alpine_arm64_cli.tar.gz",
+    "size": 8179396,
+    "sha256": "442c85a406d20ebc4715a1214759f8fb3ecce61681ecee2b9c89df6f7e903925",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_alpine_arm64_cli.tar.gz"
+  },
+  {
+    "target": "cli-linux-x64",
+    "file": "cli/vscode_cli_linux_x64_cli.tar.gz",
+    "size": 8957940,
+    "sha256": "3f3bbba55287aded4e5df5d71a54b1f41889582155c5b8dd41f2eb514b1ddeaf",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_linux_x64_cli.tar.gz"
+  },
+  {
+    "target": "cli-linux-arm64",
+    "file": "cli/vscode_cli_linux_arm64_cli.tar.gz",
+    "size": 8337194,
+    "sha256": "1e48b0b38c0c30460b44742e832ffd660ee508a0c43b19e5514c9d30abffaef0",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_linux_arm64_cli.tar.gz"
+  },
+  {
+    "target": "cli-linux-armhf",
+    "file": "cli/vscode_cli_linux_armhf_cli.tar.gz",
+    "size": 8205128,
+    "sha256": "fa5860b1b6791a60692565436964f0710eb91749a9692dfcc1684c0af6dc68f3",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_linux_armhf_cli.tar.gz"
+  },
+  {
+    "target": "cli-darwin-x64",
+    "file": "cli/vscode_cli_darwin_x64_cli.zip",
+    "size": 6511675,
+    "sha256": "6262b2344edd4ca6d67d461ffa710e481e314992464f786385aa1fad106906e7",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_darwin_x64_cli.zip"
+  },
+  {
+    "target": "cli-darwin-arm64",
+    "file": "cli/vscode_cli_darwin_arm64_cli.zip",
+    "size": 5868256,
+    "sha256": "8d042b751d3f2fb07793f416a5e999bf3f38fe43dfb358cd51d41b58e9973a99",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_darwin_arm64_cli.zip"
+  },
+  {
+    "target": "cli-win32-x64",
+    "file": "cli/vscode_cli_win32_x64_cli.zip",
+    "size": 7277367,
+    "sha256": "d557d1b8c2b7c8498b96e06256042228099131ddfce43c6406d79f74915a2d51",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_win32_x64_cli.zip"
+  },
+  {
+    "target": "cli-win32-arm64",
+    "file": "cli/vscode_cli_win32_arm64_cli.zip",
+    "size": 6388521,
+    "sha256": "990af863217f06906482b2e360421da5968320299ac5bed876b982fc62b6d895",
+    "url": "https://vscode.download.prss.microsoft.com/dbazure/download/stable/f1a4fb101478ce6ec82fe9627c43efbf9e98c813/vscode_cli_win32_arm64_cli.zip"
+  }
+]
