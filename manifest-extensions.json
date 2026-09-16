@@ -1,0 +1,232 @@
+[
+  {
+    "id": "alexandernanberg.horizon-theme-vscode",
+    "version": "1.0.1",
+    "targetPlatform": "universal",
+    "engine": "^1.26.0",
+    "extensionKind": "",
+    "file": "extensions/alexandernanberg.horizon-theme-vscode-1.0.1.vsix",
+    "size": 615472,
+    "sha256": "8ddb5cfefe1a5f9c008dcb346c8a4bf34f25e04037a37eb6bb4b20cdab36ed85"
+  },
+  {
+    "id": "editorconfig.editorconfig",
+    "version": "0.17.2",
+    "targetPlatform": "universal",
+    "engine": "^1.90.0",
+    "extensionKind": "",
+    "file": "extensions/editorconfig.editorconfig-0.17.2.vsix",
+    "size": 236569,
+    "sha256": "5e2dbe98deb38c82a6d075b17d1005b36bd8919d741afea9a11d9bd9df170ae8"
+  },
+  {
+    "id": "emilast.logfilehighlighter",
+    "version": "3.3.4",
+    "targetPlatform": "universal",
+    "engine": "^1.93.0",
+    "extensionKind": "ui,workspace",
+    "file": "extensions/emilast.logfilehighlighter-3.3.4.vsix",
+    "size": 1382159,
+    "sha256": "15edb0804d532c20f8890fa0ff6f33a6030cd1ed21c103b4c47475899b586d13"
+  },
+  {
+    "id": "esbenp.prettier-vscode",
+    "version": "11.0.3",
+    "targetPlatform": "universal",
+    "engine": "^1.80.0",
+    "extensionKind": "",
+    "file": "extensions/esbenp.prettier-vscode-11.0.3.vsix",
+    "size": 2470089,
+    "sha256": "a966c72d664e038d17a4d019da1a2f3e8f08cec4d88cc10d239358ffba9fba99"
+  },
+  {
+    "id": "hediet.vscode-drawio",
+    "version": "1.9.0",
+    "targetPlatform": "universal",
+    "engine": "^1.70.0",
+    "extensionKind": "ui,workspace",
+    "file": "extensions/hediet.vscode-drawio-1.9.0.vsix",
+    "size": 49728261,
+    "sha256": "822dfe98c25c52791bd0515bea09b1f5e23c0512d7df3fe44ebed193486e74fe"
+  },
+  {
+    "id": "jongrant.csharpsortusings",
+    "version": "0.0.6",
+    "targetPlatform": "universal",
+    "engine": "^1.36.0",
+    "extensionKind": "",
+    "file": "extensions/jongrant.csharpsortusings-0.0.6.vsix",
+    "size": 43728,
+    "sha256": "efbb0b8791fc70b5e892306de758ee3ca5d7850918d0307aa85837a93265fb1d"
+  },
+  {
+    "id": "mechatroner.rainbow-csv",
+    "version": "3.24.1",
+    "targetPlatform": "universal",
+    "engine": "^1.95.0",
+    "extensionKind": "",
+    "file": "extensions/mechatroner.rainbow-csv-3.24.1.vsix",
+    "size": 891494,
+    "sha256": "c59a4aea924d5e7c6e75abb32628448bd5404915e2f3dfa19fbbdf177dea4606"
+  },
+  {
+    "id": "mhutchie.git-graph",
+    "version": "1.30.0",
+    "targetPlatform": "universal",
+    "engine": "^1.38.0",
+    "extensionKind": "workspace",
+    "file": "extensions/mhutchie.git-graph-1.30.0.vsix",
+    "size": 354158,
+    "sha256": "b0779a30caf9866434900159c71322464e9fd267e3920d9732703819ff831f00"
+  },
+  {
+    "id": "ms-vscode-remote.remote-ssh",
+    "version": "0.115.1",
+    "targetPlatform": "universal",
+    "engine": "^1.93.0",
+    "extensionKind": "ui",
+    "file": "extensions/ms-vscode-remote.remote-ssh-0.115.1.vsix",
+    "size": 1728600,
+    "sha256": "d0ac247c518026e987f3e7aa7282ba65839ecc03d50289af2feac97c4855eb85"
+  },
+  {
+    "id": "ms-vscode-remote.remote-ssh-edit",
+    "version": "0.87.0",
+    "targetPlatform": "universal",
+    "engine": "^1.74.0",
+    "extensionKind": "ui",
+    "file": "extensions/ms-vscode-remote.remote-ssh-edit-0.87.0.vsix",
+    "size": 38489,
+    "sha256": "c9e5fa440265d3b77e4ae63219014b64d714cd5280b263c5c932849fecb71ae3"
+  },
+  {
+    "id": "nervtech.mq4",
+    "version": "1.0.4",
+    "targetPlatform": "universal",
+    "engine": "^1.5.0",
+    "extensionKind": "",
+    "file": "extensions/nervtech.mq4-1.0.4.vsix",
+    "size": 337625,
+    "sha256": "81f4a6bc57fe07257b216ecdfef921404bd7bb9b61ea0f16e5e5dc05e4deb6dc"
+  },
+  {
+    "id": "oderwat.indent-rainbow",
+    "version": "8.3.1",
+    "targetPlatform": "universal",
+    "engine": "^1.52.0",
+    "extensionKind": "",
+    "file": "extensions/oderwat.indent-rainbow-8.3.1.vsix",
+    "size": 3268062,
+    "sha256": "74e89cc9ad01dacae24dc0d2742ca1b69d0c731e5be9351a14a55bd185378d47"
+  },
+  {
+    "id": "pkief.material-icon-theme",
+    "version": "5.35.0",
+    "targetPlatform": "universal",
+    "engine": "^1.55.0",
+    "extensionKind": "ui,workspace",
+    "file": "extensions/pkief.material-icon-theme-5.35.0.vsix",
+    "size": 891053,
+    "sha256": "bb87392934ac76c47dd8d9b46be78ad7ba673a97c7c57920b2bf11131717e8d1"
+  },
+  {
+    "id": "pkief.material-product-icons",
+    "version": "1.7.1",
+    "targetPlatform": "universal",
+    "engine": "^1.53.0",
+    "extensionKind": "ui,workspace",
+    "file": "extensions/pkief.material-product-icons-1.7.1.vsix",
+    "size": 62061,
+    "sha256": "9276111b88fc714e9facb5d2a70bda4b213e11615dd677bf72d61ae64aa9e5bc"
+  },
+  {
+    "id": "powerappstools.powerfx",
+    "version": "1.0.13",
+    "targetPlatform": "universal",
+    "engine": "^1.95.0",
+    "extensionKind": "",
+    "file": "extensions/powerappstools.powerfx-1.0.13.vsix",
+    "size": 35843,
+    "sha256": "675e67745b98c0889b90ae57fef4e7e2e6af1229c56881cae41a35ab6c6270ef"
+  },
+  {
+    "id": "powerquery.vscode-powerquery",
+    "version": "0.1.62",
+    "targetPlatform": "universal",
+    "engine": "^1.87.0",
+    "extensionKind": "",
+    "file": "extensions/powerquery.vscode-powerquery-0.1.62.vsix",
+    "size": 516878,
+    "sha256": "1f76c77f06ceaaf3bf1fe862db81439ebcf506586e4ac5b4d401f162d58aab4d"
+  },
+  {
+    "id": "redhat.vscode-yaml",
+    "version": "1.23.0",
+    "targetPlatform": "universal",
+    "engine": "^1.63.0",
+    "extensionKind": "",
+    "file": "extensions/redhat.vscode-yaml-1.23.0.vsix",
+    "size": 1069940,
+    "sha256": "182ec0210214c3e179ac1b1c4defae94ab7ff7bb3ba7adfa4cb46f99c4fd6fd7"
+  },
+  {
+    "id": "shuworks.vscode-table-formatter",
+    "version": "1.2.1",
+    "targetPlatform": "universal",
+    "engine": "^1.5.0",
+    "extensionKind": "",
+    "file": "extensions/shuworks.vscode-table-formatter-1.2.1.vsix",
+    "size": 623641,
+    "sha256": "4eb12af891ce6931e55198494199a241fe41201ea1fbd143fc93457f104a294f"
+  },
+  {
+    "id": "standard.vscode-standard",
+    "version": "2.1.3",
+    "targetPlatform": "universal",
+    "engine": "^1.50.0",
+    "extensionKind": "",
+    "file": "extensions/standard.vscode-standard-2.1.3.vsix",
+    "size": 2241221,
+    "sha256": "13268ca43042d5e3ea37d84383ab3ccb286e2c66d95060c3aa686206c99e9dff"
+  },
+  {
+    "id": "usernamehw.errorlens",
+    "version": "3.26.0",
+    "targetPlatform": "universal",
+    "engine": "^1.95.0",
+    "extensionKind": "ui,workspace",
+    "file": "extensions/usernamehw.errorlens-3.26.0.vsix",
+    "size": 60056,
+    "sha256": "a40924dd05119e52cd319d9c14192cda500497f1e4f19da2fd082f8d4bfebb66"
+  },
+  {
+    "id": "vscodevim.vim",
+    "version": "1.32.4",
+    "targetPlatform": "universal",
+    "engine": "^1.74.0",
+    "extensionKind": "ui",
+    "file": "extensions/vscodevim.vim-1.32.4.vsix",
+    "size": 772708,
+    "sha256": "fa1c896629d6b1ae94facd1f76bc76c148bab4e57714d29ff0ed6a30c6447644"
+  },
+  {
+    "id": "xadillax.viml",
+    "version": "2.2.0",
+    "targetPlatform": "universal",
+    "engine": "^1.20.0",
+    "extensionKind": "",
+    "file": "extensions/xadillax.viml-2.2.0.vsix",
+    "size": 1482444,
+    "sha256": "58dc13589ddf0dd21cf60b1f39db4077a460df11f4b1bb3a38da3b7ca8ed26e2"
+  },
+  {
+    "id": "zainchen.json",
+    "version": "2.0.2",
+    "targetPlatform": "universal",
+    "engine": "^1.46.0",
+    "extensionKind": "",
+    "file": "extensions/zainchen.json-2.0.2.vsix",
+    "size": 117908,
+    "sha256": "9c2dd0f0ab82b67fe38358ff35a031586be729eff292b3e6d8f5237ec273f1a2"
+  }
+]
